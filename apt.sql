@@ -172,18 +172,18 @@ CREATE TABLE `sakin` (
 --
 
 INSERT INTO `sakin` (`id`, `ad`, `tel`, `eposta`, `sifre`, `blok`, `apartman`, `daire`, `resim`, `yetki`) VALUES
-(1, 'Görkem ÖZDEMİR', '5554424232', 'selfiron.gorkem@gmail.com', '1e55dbf412cb74d5e2c21fb6452408c7', '', '', '', NULL, 1),
-(6, 'Görkem ÖZDEMİR', '5433121212', 'ozdemir.gorkem@yandex.com.tr', '1e55dbf412cb74d5e2c21fb6452408c7', 'A', 'A2', '2', NULL, 0),
-(7, 'Görkem ÖZDEMİR', '5551511515', 'ahmetahmet@gmail.com', '056f32ee5cf49404607e368bd8d3f2af', 'A', 'A1', '3', NULL, 0),
+(1, 'A A', '5554424232', 'example@example.com', '1e55dbf412cb74d5e2c21fb6452408c7', '', '', '', NULL, 1),
+(6, 'B B', '5433121212', 'example@example.com', '1e55dbf412cb74d5e2c21fb6452408c7', 'A', 'A2', '2', NULL, 0),
+(7, 'B B', '5551511515', 'ahmetahmet@gmail.com', '056f32ee5cf49404607e368bd8d3f2af', 'A', 'A1', '3', NULL, 0),
 (8, 'Ahmet CAN', '5425424242', 'ahmetcan@gamil.com', 'f50881ced34c7d9e6bce100bf33dec60', 'A', 'A1', '4', NULL, 0),
 (9, 'Hayko CEPKIN', '5131313113', 'haykosayko@hotmail.com', '81a1e7e35e13e13939905df0c20d1420', 'A', 'A1', '5', NULL, 0),
-(10, 'Talha CAN', '5444421212', 'talha-can@hotmail.com', 'e10adc3949ba59abbe56e057f20f883e', 'A', 'A1', '7', NULL, 0),
-(11, 'Fatih YıLMAZ', '5433125251', 'kochisarli1993@gmail.com', 'e10adc3949ba59abbe56e057f20f883e', 'B', 'A1', '1', NULL, 0),
-(12, 'Görkem ÖZDEMIR', '5433581501', 'selfiron.gorkem@gmail.com', '1e55dbf412cb74d5e2c21fb6452408c7', 'B', 'A1', '2', NULL, 0),
-(13, 'Talha CAN', '5131313131', 'rampesna@gmail.com', 'e10adc3949ba59abbe56e057f20f883e', 'B', 'B1', '3', NULL, 0),
+(10, 'C C', '5444421212', 'example@example.com', 'e10adc3949ba59abbe56e057f20f883e', 'A', 'A1', '7', NULL, 0),
+(11, 'D D', '5433125251', 'example@example.com', 'e10adc3949ba59abbe56e057f20f883e', 'B', 'A1', '1', NULL, 0),
+(12, 'F F', '5433581501', 'example@example.com', '1e55dbf412cb74d5e2c21fb6452408c7', 'B', 'A1', '2', NULL, 0),
+(13, 'E E', '5131313131', 'example@example.com', 'e10adc3949ba59abbe56e057f20f883e', 'B', 'B1', '3', NULL, 0),
 (14, 'Deneyelim DENEBAKALIM', '2222222222', 'mmm', '1e55dbf412cb74d5e2c21fb6452408c7', 'B', 'B2', '7', NULL, 0),
-(15, 'Mehmet ÖZ', '5458534336', 'mehmet_oz_yesil@hotmail.com', 'e10adc3949ba59abbe56e057f20f883e', 'D', 'D2', '1', NULL, 0),
-(16, 'Muhammet  BAYKARA', '5555555555', 'muhammetbaykara23@gmail.com', 'e10adc3949ba59abbe56e057f20f883e', 'C', 'Teknoloji', '1', NULL, 0);
+(15, 'G G', '5458534336', 'example@example.com', 'e10adc3949ba59abbe56e057f20f883e', 'D', 'D2', '1', NULL, 0),
+(16, 'H  H', '5555555555', 'example@example.com', 'e10adc3949ba59abbe56e057f20f883e', 'C', 'Teknoloji', '1', NULL, 0);
 
 -- --------------------------------------------------------
 
